@@ -47,7 +47,7 @@ class HomePage extends StatelessWidget {
     ),
     Activity(
       title: "衝浪挑戰",
-      location: "墾丁丁",
+      location: "墾丁",
       imageUrl:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_tmr30NM5o2iD2gdOdlvztTmPWQzZaMtwLA&s",
     ),
